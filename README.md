@@ -105,3 +105,9 @@ Both of these challenges encompasses a real-world situation where your newfound 
 * Always commit your work and back it up with GitHub pushes. You don't want to lose hours of your work because you didn't push it to GitHub every half hour or so.
 
   * **Commit often**.
+
+
+
+## Copyright
+
+Trilogy Education Services Â© 2019. All Rights Reserved.

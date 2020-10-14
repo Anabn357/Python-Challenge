@@ -98,3 +98,5 @@ Both of these challenges encompasses a real-world situation where your newfound 
 * Your scripts should work for each dataset provided. Run your script for each dataset separately to make sure that the code works for different data.
 
 * Feel encouraged to work in groups, but don't shortchange yourself by copying someone else's work. You get what you put in, and the art of programming is extremely unforgiving to moochers. Dig your heels in, burn the night oil, and learn this while you can! These are skills that will pay dividends in your future career.
+
+* Start early, and reach out for help often! Challenge yourself to identify _specific_ questions for your instructors and TAs. Don't resign yourself to simply saying, "I'm totally lost." Come prepared to show your effort and thought patterns, we'll be happy to help along the way.

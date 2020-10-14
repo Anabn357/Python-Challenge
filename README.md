@@ -107,4 +107,3 @@ Both of these challenges encompasses a real-world situation where your newfound 
 ## Copyright
 
 Trilogy Education Services Â© 2019. All Rights Reserved.
-

@@ -51,3 +51,12 @@ Both of these challenges encompasses a real-world situation where your newfound 
   ```
 
 * In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+
+## PyPoll
+
+![Vote-Counting](Images/Vote_counting.png)
+
+* In this challenge, you are tasked with helping a small, rural town modernize its vote-counting process. (Up until now, Uncle Cleetus had been trustfully tallying them one-by-one, but unfortunately, his concentration isn't what it used to be.)
+
+* You will be give a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. Your task is to create a Python script that analyzes the votes and calculates each of the following:
+

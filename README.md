@@ -39,3 +39,15 @@ Both of these challenges encompasses a real-world situation where your newfound 
   * The greatest decrease in losses (date and amount) over the entire period
 
 * As an example, your analysis should look similar to the one below:
+
+  ```text
+  Financial Analysis
+  ----------------------------
+  Total Months: 86
+  Total: $38382578
+  Average  Change: $-2315.12
+  Greatest Increase in Profits: Feb-2012 ($1926159)
+  Greatest Decrease in Profits: Sep-2013 ($-2196167)
+  ```
+
+* In addition, your final script should both print the analysis to the terminal and export a text file with the results.
